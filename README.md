@@ -2,7 +2,7 @@
 
 ## intro
 
-`nsfp` is an argument parser written in Node.js. It is only one function, leading to its incredible 202B size. (Yes, you read that right, 202 bytes.) It allows parsing for GCC-style options (starting with `-`) and Node-style options (long ones starting with `--` and short ones/abbreviations starting with `-`). It also allows you to implement custom commands. In its present state, it does not support options that require variables.
+`nsfp` is an argument parser written in Node.js. It is only one function, leading to its incredible 203B size. (Yes, you read that right, 203 bytes.) It allows parsing for GCC-style options (starting with `-`) and Node-style options (long ones starting with `--` and short ones/abbreviations starting with `-`). It also allows you to implement custom commands. In its present state, it does not support options that require variables.
 
 ## install
 
