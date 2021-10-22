@@ -1,4 +1,4 @@
-test = (a, r = {}, i = []) => {
+module.exports = (a, r = {}, i = []) => {
   f = {}, o = [], l = a;
   l.map(e => {
     b = e.slice.bind(e);
